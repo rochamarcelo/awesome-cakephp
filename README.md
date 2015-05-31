@@ -132,7 +132,7 @@ Focus is on the specific task.
 
 ## Dependency Injection
 *Plugins that implement the dependency injection design pattern.*
-
+- [CakePimpleDi](https://github.com/rochamarcelo/cake-pimple-di) - A cakephp plugin for dependency injection based on Pimple Dependency Injection Container
 - [PipingBag plugin](https://github.com/lorenzo/piping-bag) - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
 - ~~[CakeDependency plugin](https://github.com/jameswatts/cake-dependency) - Provides a dependency injection container and service registry/locator.~~
 
